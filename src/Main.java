@@ -5,5 +5,6 @@ public class Main {
         System.out.println("test push");
         System.out.println("test push1");
         System.out.println("merge branch");
+        System.out.println("merge branch");
     }
 }
